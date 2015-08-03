@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            benarnold.de
+locale:           de_DE
 url:
 
 
@@ -26,24 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Benedikt Arnold
+  avatar: bio-ben.jpg
+  bio: "Father. Fullstack Developer. Triathlete"
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: badbenarnold
+  facebook: benedikt.arnold.5
   google:
-    plus: #username
+    plus: BenediktArnold84
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: benediktarnold
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
-  xing: #username
+  xing: Benedikt_Arnold2
   instagram: #username
   lastfm: #username
   tumblr: #username
