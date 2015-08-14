@@ -2,12 +2,12 @@
 
 title:            benarnold.de
 locale:           de_DE
-url:
+url:              
 
 
 # Jekyll configuration
 
-permalink:   /posts/:categories/:title/
+permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
