@@ -9,8 +9,9 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-Benedikt Arnold  
-IT Consulting  
+Benedikt Arnold
+Systemprogrammierung  
+Dipl. Inf. (FH) 
 Bergmannstraße 12  
 80339 München
 
