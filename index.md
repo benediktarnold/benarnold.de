@@ -14,10 +14,16 @@ Als Full-Stack Entwickler kümmere ich mich um alle Schichten Ihrer Webanwendung
 Portfolio
 =========
 
+Frameworks
+----------
+- Angular 2
+- Spring
+
 Programmierspachen
 ------------------
 - Java
 - JavaScript
+- Typescript
 - Scala
 - Python
 - Coffeescript
